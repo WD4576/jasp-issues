@@ -1,0 +1,6 @@
+When opening JASP with a .csv data sheet with mutliple data sets requiring analysis, I attepted to duplicate my anlaysises and change a few parameters to save steps.  
+This would also allow the project to be saved to one file.
+This was all done sucsessfully.
+When retreiving the file from the saved location, JASP would begin to start-up then crash.
+Resolution was to do only one study per JASP file. This works but adds additional steps.
+Additionally JASP files must be zipped to send on SKF email system or it is tagged as spam and not delivered. 
